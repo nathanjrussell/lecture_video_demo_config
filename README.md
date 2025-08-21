@@ -7,12 +7,12 @@ I created this for my very very cool lecture demo
 I think this is very very very very cool
 
 * Item 1
-* Item two
+* Item two - I like spelling vs number good job.
 * Item 3
 
 Numbered list
 
-1. First Item
+1. First Item - May we should do this  too.
 2. 2nd Item
 3. Third Item
 
